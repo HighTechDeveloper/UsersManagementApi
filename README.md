@@ -13,5 +13,6 @@
 Clean Architecture Api +Ef Core + Middleware + UnitTests(+Moq)
 Написание Web API на ASP Net Core и использование Swagger и БД
 Видео этапов: https://www.youtube.com/watch?v=21XmcmVRdSs
+![Screenshot](https://github.com/HighTechDeveloper/UsersManagementApi/blob/master/swagger.jpg)
 
 
